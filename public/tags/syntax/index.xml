@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syntax on LPLUS Lab Home</title>
+    <link>//localhost:1313/tags/syntax/</link>
+    <description>Recent content in Syntax on LPLUS Lab Home</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Apr 2023 00:00:00 -0700</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/syntax/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Publication</title>
+      <link>//localhost:1313/blog/2023-05-10-ehsan-pub/</link>
+      <pubDate>Sat, 22 Apr 2023 00:00:00 -0700</pubDate>
+      <guid>//localhost:1313/blog/2023-05-10-ehsan-pub/</guid>
+      <description>&lt;p&gt;Just out: &amp;ldquo;Testing the Interpretability Hypothesis: Evidence from acceptability judgments of relative clauses by Persian and French learners of L2 English&amp;rdquo;, a new article from Ehsan and Laurie.&lt;br&gt;&#xA;Check it out at &lt;a href=&#34;https://doi.org/10.1177/02676583231162783&#34;&gt; Second Language Research &lt;/a&gt;!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>New publication</title>
+      <link>//localhost:1313/blog/2023-05-23-willem-pub/</link>
+      <pubDate>Wed, 15 Feb 2023 00:00:00 -0800</pubDate>
+      <guid>//localhost:1313/blog/2023-05-23-willem-pub/</guid>
+      <description>&lt;p&gt;Willem and Laurie have a new publication out in &lt;em&gt;Language, Cognition and Neuroscience&lt;/em&gt;.&lt;br&gt;&#xA;Check out &lt;a href=&#34;https://doi.org/10.1080/23273798.2022.2091151&#34;&gt; syntactic comprehension priming and lexical boost effects in older adults&lt;/a&gt;!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

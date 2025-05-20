@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conference on Hugoplate</title>
+    <link>//localhost:1313/tags/conference/</link>
+    <description>Recent content in Conference on Hugoplate</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Oct 2023 00:00:00 -0400</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/conference/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SNL 2023</title>
+      <link>//localhost:1313/blog/2023-10-23-marseille/</link>
+      <pubDate>Mon, 23 Oct 2023 00:00:00 -0400</pubDate>
+      <guid>//localhost:1313/blog/2023-10-23-marseille/</guid>
+      <description>&lt;p&gt;We&amp;rsquo;re in Marseille for &lt;a href=&#34;https://www.neurolang.org/2023/&#34;&gt;SNL 2023&lt;/a&gt;! &lt;br&gt;&lt;/p&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s L+PLUS Lab member Stephanie Martin presenting her work in session C, showing off some excellent work on lexical processing in bilingual children with DLD.  Lab alum Willem van Boxtel also brought two excellent posters in sessions B and C outlining new work on structural priming in aphasia.  Great to see so much great research this year!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

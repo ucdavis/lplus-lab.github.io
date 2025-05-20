@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publication on LPLUS Lab Home</title>
+    <link>//localhost:1313/tags/publication/</link>
+    <description>Recent content in Publication on LPLUS Lab Home</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Apr 2025 00:00:00 -0700</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/publication/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Accent the Positive paper out</title>
+      <link>//localhost:1313/blog/2025-04-14-iat-pub/</link>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 -0700</pubDate>
+      <guid>//localhost:1313/blog/2025-04-14-iat-pub/</guid>
+      <description>&lt;p&gt;The first paper from our Accent the Positive project is out, featuring both Laurie and lab alum Stephanie Martin Vega.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>New publication on bilingual language acquisition</title>
+      <link>//localhost:1313/blog/2024-12-02-specificity-pub/</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 -0800</pubDate>
+      <guid>//localhost:1313/blog/2024-12-02-specificity-pub/</guid>
+      <description>&lt;p&gt;Another publication from the lab &amp;ndash; this time on the acquistiion of generic and specific markers in bilingual French-English children.  In collaboration with Coralie Herve at the University of Poiters, this work shows interesting effects of bilingual cross-linguistic interference as children work out the subtle differences between article usage in their two languages.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>New publication on Kinyarwanda</title>
+      <link>//localhost:1313/blog/2024-09-05-kr-pub/</link>
+      <pubDate>Thu, 05 Sep 2024 00:00:00 -0700</pubDate>
+      <guid>//localhost:1313/blog/2024-09-05-kr-pub/</guid>
+      <description>&lt;p&gt;Publication alert!  L+PLUS Lab members Laurie, Fate and Willem have a new paper out with colleage Kyle Jerro.  This paper looks at noun class processing in Kinyarwanda, a Bantu language of Rwanda.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Coming soon</title>
+      <link>//localhost:1313/blog/2024-04-10-gender-pub/</link>
+      <pubDate>Wed, 10 Apr 2024 00:00:00 -0700</pubDate>
+      <guid>//localhost:1313/blog/2024-04-10-gender-pub/</guid>
+      <description>&lt;p&gt;Xiaoduan and Laurie have a chapter coming out soon in a new book: &lt;a href=&#34;https://www.degruyter.com/document/isbn/9783111201252/html?lang=en&#34;&gt; Public Attitudes Towards Gender-Inclusive Language&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LabPhon special collection</title>
+      <link>//localhost:1313/blog/2023-12-13-labphon/</link>
+      <pubDate>Wed, 13 Dec 2023 00:00:00 -0800</pubDate>
+      <guid>//localhost:1313/blog/2023-12-13-labphon/</guid>
+      <description>&lt;p&gt;The first article in the Journal of Laboratory Phonology special collection &lt;a href=&#34;https://www.journal-labphon.org/collections/959/&#34;&gt; Distanced data collection: Remote data collection and online experimentation&lt;/a&gt; is out!&lt;br&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Publication</title>
+      <link>//localhost:1313/blog/2023-05-10-ehsan-pub/</link>
+      <pubDate>Sat, 22 Apr 2023 00:00:00 -0700</pubDate>
+      <guid>//localhost:1313/blog/2023-05-10-ehsan-pub/</guid>
+      <description>&lt;p&gt;Just out: &amp;ldquo;Testing the Interpretability Hypothesis: Evidence from acceptability judgments of relative clauses by Persian and French learners of L2 English&amp;rdquo;, a new article from Ehsan and Laurie.&lt;br&gt;&#xA;Check it out at &lt;a href=&#34;https://doi.org/10.1177/02676583231162783&#34;&gt; Second Language Research &lt;/a&gt;!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>New publication</title>
+      <link>//localhost:1313/blog/2023-05-23-willem-pub/</link>
+      <pubDate>Wed, 15 Feb 2023 00:00:00 -0800</pubDate>
+      <guid>//localhost:1313/blog/2023-05-23-willem-pub/</guid>
+      <description>&lt;p&gt;Willem and Laurie have a new publication out in &lt;em&gt;Language, Cognition and Neuroscience&lt;/em&gt;.&lt;br&gt;&#xA;Check out &lt;a href=&#34;https://doi.org/10.1080/23273798.2022.2091151&#34;&gt; syntactic comprehension priming and lexical boost effects in older adults&lt;/a&gt;!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

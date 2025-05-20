@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mandarin on LPLUS Lab Home</title>
+    <link>//localhost:1313/tags/mandarin/</link>
+    <description>Recent content in Mandarin on LPLUS Lab Home</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Apr 2024 00:00:00 -0700</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/mandarin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coming soon</title>
+      <link>//localhost:1313/blog/2024-04-10-gender-pub/</link>
+      <pubDate>Wed, 10 Apr 2024 00:00:00 -0700</pubDate>
+      <guid>//localhost:1313/blog/2024-04-10-gender-pub/</guid>
+      <description>&lt;p&gt;Xiaoduan and Laurie have a chapter coming out soon in a new book: &lt;a href=&#34;https://www.degruyter.com/document/isbn/9783111201252/html?lang=en&#34;&gt; Public Attitudes Towards Gender-Inclusive Language&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

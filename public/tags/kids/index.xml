@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kids on LPLUS Lab Home</title>
+    <link>//localhost:1313/tags/kids/</link>
+    <description>Recent content in Kids on LPLUS Lab Home</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Apr 2025 00:00:00 -0700</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/kids/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Accent the Positive paper out</title>
+      <link>//localhost:1313/blog/2025-04-14-iat-pub/</link>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 -0700</pubDate>
+      <guid>//localhost:1313/blog/2025-04-14-iat-pub/</guid>
+      <description>&lt;p&gt;The first paper from our Accent the Positive project is out, featuring both Laurie and lab alum Stephanie Martin Vega.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>New publication on bilingual language acquisition</title>
+      <link>//localhost:1313/blog/2024-12-02-specificity-pub/</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 -0800</pubDate>
+      <guid>//localhost:1313/blog/2024-12-02-specificity-pub/</guid>
+      <description>&lt;p&gt;Another publication from the lab &amp;ndash; this time on the acquistiion of generic and specific markers in bilingual French-English children.  In collaboration with Coralie Herve at the University of Poiters, this work shows interesting effects of bilingual cross-linguistic interference as children work out the subtle differences between article usage in their two languages.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SNL 2023</title>
+      <link>//localhost:1313/blog/2023-10-23-marseille/</link>
+      <pubDate>Mon, 23 Oct 2023 00:00:00 -0700</pubDate>
+      <guid>//localhost:1313/blog/2023-10-23-marseille/</guid>
+      <description>&lt;p&gt;We&amp;rsquo;re in Marseille for &lt;a href=&#34;https://www.neurolang.org/2023/&#34;&gt;SNL 2023&lt;/a&gt;! &lt;br&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Accent the Positive</title>
+      <link>//localhost:1313/blog/2023-03-13-ucd-talk/</link>
+      <pubDate>Mon, 13 Mar 2023 00:00:00 -0700</pubDate>
+      <guid>//localhost:1313/blog/2023-03-13-ucd-talk/</guid>
+      <description>&lt;p&gt;Laurie gave a talk in the Linguistics Department at the University of California, Davis on how primary-school children percieve standard and non-standard accents.&lt;br&gt;&#xA;Check out more on the &lt;a href=&#34;projects/proj-IAT.html&#34;&#xA;&#xA;&#xA;&#xA; &#xA;&#xA;&#xA;&gt;Accent the Positive&lt;/a&gt; page!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

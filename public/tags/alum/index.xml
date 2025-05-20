@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alum on LPLUS Lab Home</title>
+    <link>//localhost:1313/tags/alum/</link>
+    <description>Recent content in Alum on LPLUS Lab Home</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Apr 2024 00:00:00 -0700</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/alum/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alumni news</title>
+      <link>//localhost:1313/blog/2024-04-22-alum/</link>
+      <pubDate>Mon, 22 Apr 2024 00:00:00 -0700</pubDate>
+      <guid>//localhost:1313/blog/2024-04-22-alum/</guid>
+      <description>&lt;p&gt;Former L+PLUS Lab members are making a splash!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>New publication</title>
+      <link>//localhost:1313/blog/2023-05-23-willem-pub/</link>
+      <pubDate>Wed, 15 Feb 2023 00:00:00 -0800</pubDate>
+      <guid>//localhost:1313/blog/2023-05-23-willem-pub/</guid>
+      <description>&lt;p&gt;Willem and Laurie have a new publication out in &lt;em&gt;Language, Cognition and Neuroscience&lt;/em&gt;.&lt;br&gt;&#xA;Check out &lt;a href=&#34;https://doi.org/10.1080/23273798.2022.2091151&#34;&gt; syntactic comprehension priming and lexical boost effects in older adults&lt;/a&gt;!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

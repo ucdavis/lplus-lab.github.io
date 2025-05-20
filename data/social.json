@@ -1,0 +1,19 @@
+{
+  "main": [
+    {
+      "name": "bluesky",
+      "icon": "fab fa-bluesky",
+      "link": "https://bsky.app/profile/l-plus.bsky.social"
+    },
+    {
+      "name": "github",
+      "icon": "fab fa-github",
+      "link": "https://www.github.com/lpluslab"
+    },
+    {
+      "name": "email",
+      "icon": "fab fa-at",
+      "link": "https://lplus-lab.github.io/contact/"
+    }
+  ]
+}

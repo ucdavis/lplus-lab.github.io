@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SLA on LPLUS Lab Home</title>
+    <link>//localhost:1313/tags/sla/</link>
+    <description>Recent content in SLA on LPLUS Lab Home</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Dec 2024 00:00:00 -0800</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/sla/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New publication on bilingual language acquisition</title>
+      <link>//localhost:1313/blog/2024-12-02-specificity-pub/</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 -0800</pubDate>
+      <guid>//localhost:1313/blog/2024-12-02-specificity-pub/</guid>
+      <description>&lt;p&gt;Another publication from the lab &amp;ndash; this time on the acquistiion of generic and specific markers in bilingual French-English children.  In collaboration with Coralie Herve at the University of Poiters, this work shows interesting effects of bilingual cross-linguistic interference as children work out the subtle differences between article usage in their two languages.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Publication</title>
+      <link>//localhost:1313/blog/2023-05-10-ehsan-pub/</link>
+      <pubDate>Sat, 22 Apr 2023 00:00:00 -0700</pubDate>
+      <guid>//localhost:1313/blog/2023-05-10-ehsan-pub/</guid>
+      <description>&lt;p&gt;Just out: &amp;ldquo;Testing the Interpretability Hypothesis: Evidence from acceptability judgments of relative clauses by Persian and French learners of L2 English&amp;rdquo;, a new article from Ehsan and Laurie.&lt;br&gt;&#xA;Check it out at &lt;a href=&#34;https://doi.org/10.1177/02676583231162783&#34;&gt; Second Language Research &lt;/a&gt;!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

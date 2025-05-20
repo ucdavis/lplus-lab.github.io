@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Phonology on LPLUS Lab Home</title>
+    <link>//localhost:1313/tags/phonology/</link>
+    <description>Recent content in Phonology on LPLUS Lab Home</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Dec 2023 00:00:00 -0800</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/phonology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LabPhon special collection</title>
+      <link>//localhost:1313/blog/2023-12-13-labphon/</link>
+      <pubDate>Wed, 13 Dec 2023 00:00:00 -0800</pubDate>
+      <guid>//localhost:1313/blog/2023-12-13-labphon/</guid>
+      <description>&lt;p&gt;The first article in the Journal of Laboratory Phonology special collection &lt;a href=&#34;https://www.journal-labphon.org/collections/959/&#34;&gt; Distanced data collection: Remote data collection and online experimentation&lt;/a&gt; is out!&lt;br&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

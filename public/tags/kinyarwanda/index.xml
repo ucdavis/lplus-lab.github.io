@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kinyarwanda on LPLUS Lab Home</title>
+    <link>//localhost:1313/tags/kinyarwanda/</link>
+    <description>Recent content in Kinyarwanda on LPLUS Lab Home</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Sep 2024 00:00:00 -0700</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/kinyarwanda/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New publication on Kinyarwanda</title>
+      <link>//localhost:1313/blog/2024-09-05-kr-pub/</link>
+      <pubDate>Thu, 05 Sep 2024 00:00:00 -0700</pubDate>
+      <guid>//localhost:1313/blog/2024-09-05-kr-pub/</guid>
+      <description>&lt;p&gt;Publication alert!  L+PLUS Lab members Laurie, Fate and Willem have a new paper out with colleage Kyle Jerro.  This paper looks at noun class processing in Kinyarwanda, a Bantu language of Rwanda.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

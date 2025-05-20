@@ -1,0 +1,84 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+#[[main]]
+#name = "About"
+#url = "/about"
+#weight = 2
+[[main]]
+name = "Members"
+weight=2
+
+[[main]]
+parent = "Members"
+name = "Current lab members"
+url = "/authors"
+weight = 1
+
+[[main]]
+parent = "Members"
+name = "Alumni"
+url = "/authors/alum"
+weight = 2
+
+[[main]]
+weight = 3
+name = "Projects"
+
+[[main]]
+parent = "Projects"
+name = "Accent the Positive"
+url = "/projects/IAT"
+
+[[main]]
+parent = "Projects"
+name = "Kinyarwanda Noun Classes"
+url = "/projects/KR"
+
+[[main]]
+parent = "Projects"
+name = "Morphological decomposition"
+url = "/projects/EEGGAMM"
+
+[[main]]
+parent = "Projects"
+name = "Underspecification"
+url = "/projects/Underspec"
+
+[[main]]
+parent = "Projects"
+name = "BSL Science Summaries"
+url = "/projects/RAD"
+
+
+[[main]]
+name = "Publications"
+url = "/publications"
+weight = 4
+
+[[main]]
+name = "News"
+url = "/blog"
+weight = 5
+
+
+# footer menu
+[[footer]]
+name = "About"
+url = "/about"
+weight = 1
+
+[[footer]]
+name = "News"
+url = "/blog"
+weight = 2
+
+[[footer]]
+name = "Contact"
+url = "/contact"
+weight = 3

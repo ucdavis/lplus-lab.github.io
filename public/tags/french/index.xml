@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>French on LPLUS Lab Home</title>
+    <link>//localhost:1313/tags/french/</link>
+    <description>Recent content in French on LPLUS Lab Home</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Dec 2024 00:00:00 -0800</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/french/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New publication on bilingual language acquisition</title>
+      <link>//localhost:1313/blog/2024-12-02-specificity-pub/</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 -0800</pubDate>
+      <guid>//localhost:1313/blog/2024-12-02-specificity-pub/</guid>
+      <description>&lt;p&gt;Another publication from the lab &amp;ndash; this time on the acquistiion of generic and specific markers in bilingual French-English children.  In collaboration with Coralie Herve at the University of Poiters, this work shows interesting effects of bilingual cross-linguistic interference as children work out the subtle differences between article usage in their two languages.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
